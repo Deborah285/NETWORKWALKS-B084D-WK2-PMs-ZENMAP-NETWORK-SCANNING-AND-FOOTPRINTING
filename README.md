@@ -56,3 +56,6 @@ Properly configure and monitor the WAF
 
 Investigate unknown devices , etc.
 
+## Penetration Testing Report
+
+Here's the link to my detailed pen testing report: https://docs.google.com/document/d/1jDa_QcRndV9ekMxykSsMvHNsqlTmt_owXVqFt1HYfPg/edit?usp=sharing
